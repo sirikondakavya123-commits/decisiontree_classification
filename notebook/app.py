@@ -27,8 +27,12 @@ st.markdown("""
 }
 
 h1 {
-    color: #1e40af;
+    color: #1e40af !important;
     text-align: center;
+}
+
+h2, h3, p {
+    color: #1e3a8a !important;
 }
 
 label {
